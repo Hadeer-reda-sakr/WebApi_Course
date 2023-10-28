@@ -1,0 +1,59 @@
+﻿{
+   "CodeGenerationMode": 3,
+   "ContextClassName": "ITI_MVCContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "WebApi_Task",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[Courses]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CrsResult]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Departments]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Instructors]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Traniee]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "desktop-ubg6csm.ITI_MVC.dbo",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
